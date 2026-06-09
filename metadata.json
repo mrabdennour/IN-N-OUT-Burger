@@ -1,0 +1,6 @@
+{
+  "name": "In-N-Out Burger",
+  "description": "High-converting restaurant website for In-N-Out Burger",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
